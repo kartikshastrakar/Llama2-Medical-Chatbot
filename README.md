@@ -1,5 +1,3 @@
-
-
 # Llama2 Medical Bot
 
 The Llama2 Medical Bot is a powerful tool designed to provide medical information by answering user queries using state-of-the-art language models and vector stores. This README will guide you through the setup and usage of the Llama2 Medical Bot.
@@ -12,6 +10,7 @@ The Llama2 Medical Bot is a powerful tool designed to provide medical informatio
 - [Installation](#installation)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -40,7 +39,7 @@ Before you can start using the Llama2 Medical Bot, make sure you have the follow
 
     ```bash
     python -m venv venv
-    source venv/bin/activate  On Windows, use: venv\Scripts\activate
+    source venv/bin/activate  # On Windows, use: venv\Scripts\activate
     ```
 
 3. Install the required Python packages:
@@ -78,6 +77,22 @@ The Llama2 Medical Bot can be used for answering medical-related queries. To use
 4. If sources are found, they will be provided alongside the answer.
 
 5. The bot can be customized to return specific information based on the query and context provided.
+
+## Screenshots
+
+Below are some screenshots of the Llama2 Medical Bot in action:
+
+### Screenshot 1: Bot Initialization
+![Screenshot 1](output/Screenshot%202025-03-27%20195853.png)
+
+### Screenshot 2: Query Input
+![Screenshot 2](output/Screenshot%202025-03-27%20201039.png)
+
+### Screenshot 3: Bot Response
+![Screenshot 3](output/Screenshot%202025-03-27%20201124.png)
+
+### Screenshot 4: Error Handling
+![Screenshot 4](output/Screenshot%202025-03-27%20201342.png)
 
 ## Contributing
 
