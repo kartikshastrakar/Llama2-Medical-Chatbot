@@ -83,16 +83,16 @@ The Llama2 Medical Bot can be used for answering medical-related queries. To use
 Below are some screenshots of the Llama2 Medical Bot in action:
 
 ### Screenshot 1: Bot Initialization
-![Screenshot 1](output/Screenshot%202025-03-27%20195853.png)
+<img src="output/Screenshot%202025-03-27%20195853.png" alt="Screenshot 1" width="600">
 
 ### Screenshot 2: Query Input
-![Screenshot 2](output/Screenshot%202025-03-27%20201039.png)
+<img src="output/Screenshot%202025-03-27%20201039.png" alt="Screenshot 2" width="600">
 
 ### Screenshot 3: Bot Response
-![Screenshot 3](output/Screenshot%202025-03-27%20201124.png)
+<img src="output/Screenshot%202025-03-27%20201124.png" alt="Screenshot 3" width="600">
 
 ### Screenshot 4: Error Handling
-![Screenshot 4](output/Screenshot%202025-03-27%20201342.png)
+<img src="output/Screenshot%202025-03-27%20201342.png" alt="Screenshot 4" width="600">
 
 ## Contributing
 
